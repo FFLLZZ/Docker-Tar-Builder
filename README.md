@@ -14,6 +14,9 @@ https://wkdaily.cpolar.top/archives/gc
 
 <img src="https://github.com/user-attachments/assets/e537c746-ec4f-4588-9315-ecf73a05b8d0" width="40%" />
 
+ghcr.io/szemeng76/lunatv:latest
+
+
 ## 2024-12-09 新增功能：
 > 增加了新的工作流<br>
 > 可以将docker镜像转存到自己项目的Github Release文件里<br>
